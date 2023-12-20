@@ -1,0 +1,24 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    color:blueviolet;
+    background-color: bisque;
+    
+}
+
+.Title{
+    border: 2px solid white;
+    
+}
+
+.header{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: larger;
+    color: black;
+}
+
+.paragraph{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+    background-color: azure;
+}
